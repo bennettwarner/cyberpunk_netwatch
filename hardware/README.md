@@ -1,0 +1,1 @@
+Source files are in easyeda format... sorry, that's what I know.
